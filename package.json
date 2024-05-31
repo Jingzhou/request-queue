@@ -1,5 +1,5 @@
 {
-  "name": "request-queue-ts",
+  "name": "request-queue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
