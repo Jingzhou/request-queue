@@ -1,0 +1,12 @@
+{
+  "name": "jz-request-queue",
+  "version": "1.0.3",
+  "description": "request-queue",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yujingzhou",
+  "license": "ISC"
+}
