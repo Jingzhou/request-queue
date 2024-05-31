@@ -19,7 +19,7 @@
 
 <script lang="ts">
 import { ref } from "vue";
-import RequestQueue from "../dist";
+import RequestQueue from "jz-request-queue";
 export default {
   name: "App",
   components: {},

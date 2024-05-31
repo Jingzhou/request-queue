@@ -4417,6 +4417,11 @@ jsonfile@^6.0.1:
   optionalDependencies:
     graceful-fs "^4.1.6"
 
+jz-request-queue@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/jz-request-queue/-/jz-request-queue-1.0.0.tgz#b05419ea427711640f3ec6d566c747bb4f6e691d"
+  integrity sha512-eLWxnE1Pe8/K2yNgnrP76yF2i7u8cBzn3Bv6c/iLlWMHrqU9B+qxqEgUYohCZIYSke8DgL9DRUUsjiYvuRKNVQ==
+
 keyv@^4.5.3:
   version "4.5.4"
   resolved "https://registry.npmmirror.com/keyv/-/keyv-4.5.4.tgz#a879a99e29452f942439f2a405e3af8b31d4de93"
